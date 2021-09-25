@@ -33,6 +33,7 @@ When we want to do something scientifically, we need to use a certain method to 
 * Observe a problem
 * Form a hypothesis
 * Draw a conclusion
+
 However, I don't think it's a good idea to do these in any order, because sharing your results before you collect data is what you get from old people on Facebook. It should go more like:
 1. Observe a problem
 2. Form a hypothesis
@@ -40,18 +41,21 @@ However, I don't think it's a good idea to do these in any order, because sharin
 4. Collect data
 5. Draw a conclusion
 6. Share your results
+
 That's how real collaboration happens.
 
 ### Task lists
 Let's see what we need from the requirements doc...
-[x] Images
-[x] Headings
-[x] Styling text
-[x] Quoting text
-[x] Quoting code
-[x] External Links
-[x] Section links (as of the beginning of this list)
-[x] Relative Links
-[x] Ordered and Unordered Lists
+
+[x] [Images](#by-xavier-sevcik)
+[x] [Headings](#welcome-to-lab-week-1)
+[x] [Styling text](#styling-text)
+[x] [Quoting text](#quoting-text)
+[x] [Quoting code](#quoting-code)
+[x] [External Links](#external-links)
+[x] [Section links](#task-lists) (as of the beginning of this list)
+[x] [Relative Links](#relative-links)
+[x] [Ordered and Unordered Lists](#ordered-and-unordered-lists)
 [ ] Task lists
+
 All but...wait! *This* is a task list! I'm so good at this. Looks like that ticks all the boxes.
