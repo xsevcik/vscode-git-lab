@@ -1,5 +1,5 @@
 Xavier's User Page
 
-I really like C++ becaue of how positive it is.
+I really like C++ becaue of how positive it is, positively.
 
 Be sure to visit the [pages](https://xsevcik.github.io/vscode-git-lab/) version of this repository.
